@@ -10,3 +10,4 @@
 - [16234: 인구 이동](https://github.com/minnim1010/algorithm/blob/main/16234.cpp)
 - [14499: 주사위 굴리기](https://github.com/minnim1010/algorithm/blob/main/14499.cpp)
 - [20438: 출석 체크](https://github.com/minnim1010/algorithm/blob/main/20438.cpp)
+- [11441: 합 구하기](https://github.com/minnim1010/algorithm/blob/main/11441.cpp)
