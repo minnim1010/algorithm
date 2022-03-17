@@ -11,3 +11,4 @@
 - [14499: 주사위 굴리기](https://github.com/minnim1010/algorithm/blob/main/14499.cpp)
 - [20438: 출석 체크](https://github.com/minnim1010/algorithm/blob/main/20438.cpp)
 - [11441: 합 구하기](https://github.com/minnim1010/algorithm/blob/main/11441.cpp)
+- [2003: 수들의 합2](https://github.com/minnim1010/algorithm/blob/main/2003.cpp)
