@@ -14,3 +14,4 @@
 - [2003: 수들의 합2](https://github.com/minnim1010/algorithm/blob/main/2003.cpp)
 - [2805: 나무 자르기](https://github.com/minnim1010/algorithm/blob/main/2805.cpp)
 - [1072: 게임](https://github.com/minnim1010/algorithm/blob/main/1072.cpp)
+- [1806: 부분합](https://github.com/minnim1010/algorithm/blob/main/1806.cpp)
