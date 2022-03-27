@@ -19,3 +19,4 @@
 - [2143: 두 배열의 합](https://github.com/minnim1010/algorithm/blob/main/2143.cpp)
 - [7453: 합이 0인 네 정수](https://github.com/minnim1010/algorithm/blob/main/7453.cpp)
 - [11003: 최솟값 찾기](https://github.com/minnim1010/algorithm/blob/main/11003.cpp)
+- [14888: 연산자 끼워넣기](https://github.com/minnim1010/algorithm/blob/main/14888.cpp)
