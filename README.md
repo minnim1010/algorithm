@@ -20,3 +20,4 @@
 - [7453: 합이 0인 네 정수](https://github.com/minnim1010/algorithm/blob/main/7453.cpp)
 - [11003: 최솟값 찾기](https://github.com/minnim1010/algorithm/blob/main/11003.cpp)
 - [14888: 연산자 끼워넣기](https://github.com/minnim1010/algorithm/blob/main/14888.cpp)
+- [14889: 스타트와 링크](https://github.com/minnim1010/algorithm/blob/main/14889.cpp)
