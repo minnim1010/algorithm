@@ -21,3 +21,4 @@
 - [11003: 최솟값 찾기](https://github.com/minnim1010/algorithm/blob/main/11003.cpp)
 - [14888: 연산자 끼워넣기](https://github.com/minnim1010/algorithm/blob/main/14888.cpp)
 - [14889: 스타트와 링크](https://github.com/minnim1010/algorithm/blob/main/14889.cpp)
+- [20055: 컨베이어 벨트 위의 로봇](https://github.com/minnim1010/algorithm/blob/main/20055.cpp)
