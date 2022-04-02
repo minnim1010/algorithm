@@ -24,3 +24,4 @@
 - [20055: 컨베이어 벨트 위의 로봇](https://github.com/minnim1010/algorithm/blob/main/20055.cpp)
 - [15686: 치킨 배달](https://github.com/minnim1010/algorithm/blob/main/15686.cpp)
 - [2668: 숫자고르기](https://github.com/minnim1010/algorithm/blob/main/2668.cpp)
+- [2661: 좋은 수열](https://github.com/minnim1010/algorithm/blob/main/2661.cpp)
