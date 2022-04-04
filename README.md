@@ -28,3 +28,4 @@
 - [18429: 근손실](https://github.com/minnim1010/algorithm/blob/main/18429.cpp)
 - [16637: 괄호 추가하기](https://github.com/minnim1010/algorithm/blob/main/16637.cpp)
 - [10816: 숫자 카드2](https://github.com/minnim1010/algorithm/blob/main/10816.cpp)
+- [1654: 랜선 자르기](https://github.com/minnim1010/algorithm/blob/main/1654.cpp)
