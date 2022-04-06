@@ -30,3 +30,4 @@
 - [10816: 숫자 카드2](https://github.com/minnim1010/algorithm/blob/main/10816.cpp)
 - [1654: 랜선 자르기](https://github.com/minnim1010/algorithm/blob/main/1654.cpp)
 - [2110: 공유기 설치](https://github.com/minnim1010/algorithm/blob/main/2110.cpp)
+- [1939: ](https://github.com/minnim1010/algorithm/blob/main/2110.cpp)
