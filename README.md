@@ -32,3 +32,4 @@
 - [2110: 공유기 설치](https://github.com/minnim1010/algorithm/blob/main/2110.cpp)
 - [1939: 중량제한](https://github.com/minnim1010/algorithm/blob/main/1939.cpp)
 - [7562: 나이트의 이동](https://github.com/minnim1010/algorithm/blob/main/7562.cpp)
+- [3967: 매직 스타](https://github.com/minnim1010/algorithm/blob/main/3967.cpp)
